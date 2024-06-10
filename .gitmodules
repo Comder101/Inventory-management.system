@@ -1,0 +1,3 @@
+[submodule "yolov9"]
+	path = yolov9
+	url = https://github.com/Comder101/yolov9
